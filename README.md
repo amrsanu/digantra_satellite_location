@@ -6,7 +6,7 @@ This repository contains scripts and utilities for computing and analyzing satel
 
 ## Contents
 
-- **satellite.py.py**: Main script for computing satellite positions and filtering based on regions.
+- **satellite.py**: Main script for computing satellite positions and filtering based on regions.
 - **satellite_utils.py**: Utilities for working with TLE data and computing satellite positions.
 - **visualization_utils.py**: (Optional) Utilities for visualizing satellite positions.
 - **requirements.txt**: List of Python dependencies.
@@ -29,7 +29,7 @@ This repository contains scripts and utilities for computing and analyzing satel
 3. Run the main script:
 
     ```bash
-    python main_script.py
+    python satellite.py
     ```
 
 4. Usage
